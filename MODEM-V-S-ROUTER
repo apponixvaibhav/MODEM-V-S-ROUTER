@@ -1,0 +1,29 @@
+# MODEM-V-S-ROUTER
+WHAT IS A MODEM?
+A modem is hardware equipment converting data into an appropriate format for a communication medium to transmit it from one computer to the other. Modems do modulation and demodulation simultaneously and thus, have the name as the amalgamation of the words 'modulate' and 'demodulate'.
+
+WHAT IS A ROUTER?
+A router is a device that analyses data packet contents diffused within one network to the other. The routers available at home and minor networks can be called as Residential gateway.
+
+Modems and Router are the important peripherals of the computer.They are similar in appearance but different in its uses and functionality. Let’s see how they differ from each other.
+
+DIFFERENCE BETWEEN MODEM AND ROUTER
+
+	MODEM	ROUTER
+Description	It enables us to receive a connection from the internet by diffusing and getting it through telephone lines.	It directs data in a network, connecting to the modem and generate a private data network to receive data within a range like home computers, offices, and businesses.
+IP address	It containsthe public IP address that’s identified on the internet.	It allows the local IP addressesto every single device on the same network.
+Network usage	WAN is used.	LAN is used.
+Process	It demodulates the incoming and modulates the outgoing analog signals to digital signals and vice-versa.	It is a connecting device that forwards data packets between computer networks and regulates its path to influence the destination computer.
+Connections	It is used to connect one computer through an Ethernet port.	It is used to connect one or more computers or connecting devices using Wi-Fi or Ethernet.
+Operated layers	It is operated on a Data Link layer or OSI model.	It is operated on the Data Link layer, Physical layer, and Network layers of the OSI model.
+Security measures	It doesn’t provide any security actions.	It provides security actions to protect the network.
+Packet	It doesn’t examine any data pocket.	It examines the data packets before forwarding them.
+Information sharing	It can work in the absence of a router and can transfer information through the internet to computer.	Routers are able to share information with multiple computers but will not able to connect to the internet in the absence of modem.
+Connected through	It is connected to the telephone through RJ11 and to the router through RJ45.	It is connected to the computer network through RJ45.
+Types	Half, full-duplex, and two-wire modems.	Broadband, Edge, wired, and wireless routers
+Inbuilt Function	It can have an inbuilt wireless router in a single device.	It cannot function without modem.
+Number of ports	Two	Two/four/five/eight
+Connection with switch	Not connected to switch	It has either inbuilt switches or external switches to connect to devices.
+Where is it placed?	Placed between the telephone line and router or directly to a computer.	Placed between a computer network and modem.
+IP server connectivity	It doesn’t provide IP server connectivity.	It provides IP server connectivity.
+
